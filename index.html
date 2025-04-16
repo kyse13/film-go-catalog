@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FILM_GO Кинотеатр - Каталог фильмов</title>
+    <link rel="stylesheet" href="styles.css">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>FILM_GO Кинотеатр</h1>
+            <p class="subtitle">Подборка лучших фильмов в прокате</p>
+        </div>
+    </header>
+
+    <section class="filters">
+        <div class="container">
+            <h2>Выберите жанр</h2>
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-genre="all">Все жанры</button>
+                <button class="filter-btn" data-genre="action">Боевик</button>
+                <button class="filter-btn" data-genre="drama">Драма</button>
+                <button class="filter-btn" data-genre="comedy">Комедия</button>
+                <button class="filter-btn" data-genre="fantasy">Фэнтези</button>
+                <button class="filter-btn" data-genre="horror">Ужасы</button>
+                <button class="filter-btn" data-genre="animation">Анимация</button>
+            </div>
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Загрузка фильмов...</p>
+            </div>
+        </div>
+    </section>
+
+    
+
+    <main class="movies-container">
+        <div class="container">
+            <div class="movies-grid" id="moviesGrid">
+              
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 FILM_GO Кинотеатр</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

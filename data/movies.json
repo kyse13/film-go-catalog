@@ -1,0 +1,112 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Веном 3: Последний танец",
+        "genres": ["action", "sci-fi", "fantasy"],
+        "description": "Эдди и Веном находятся в бегах. Скрываясь от преследования, антигерои совершают последний отчаянный шаг — возвращаются в Нью-Йорк, где всё началось.",
+        "image": "https://ru-images.kinorium.com/movie/1080/2945394.jpg?1729931731",
+        "duration": "105 мин",
+        "rating": "16+"
+      },
+      {
+        "id": 2,
+        "title": "Джокер: Безумие на двоих",
+        "genres": ["drama", "crime", "thriller"],
+        "description": "Артур Флек под присмотром врачей находится в лечебнице Аркхем, но его ждет неожиданный поворот судьбы: герой влюбляется в свою сокамерницу Харли Квинн.",
+        "image": "https://upload.wikimedia.org/wikipedia/ru/3/39/%D0%94%D0%B6%D0%BE%D0%BA%D0%B5%D1%80_%E2%80%94_%D0%B1%D0%B5%D0%B7%D1%83%D0%BC%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%B4%D0%B2%D0%BE%D0%B8%D1%85.jpg",
+        "duration": "138 мин",
+        "rating": "18+"
+      },
+      {
+        "id": 3,
+        "title": "Семейка Крудс: Переполох в пещере",
+        "genres": ["animation", "comedy", "adventure"],
+        "description": "В доисторические времена пещерный человек по имени Груг и его семья сталкиваются с различными испытаниями и приключениями, пытаясь выжить в первобытном мире.",
+        "image": "https://thumbs.dfs.ivi.ru/storage38/contents/e/3/75f83d79f298a747b4339706785c1b.jpg",
+        "duration": "93 мин",
+        "rating": "6+"
+      },
+      {
+        "id": 4,
+        "title": "Трансформеры: Эпоха истребления",
+        "genres": ["action", "adventure", "sci-fi"],
+        "description": "Середина 90-х годов. Юная девушка и ее младший брат заводят дружбу с молодым роботом, который скрывается на Земле от злой инопланетной фракции.",
+        "image": "https://upload.wikimedia.org/wikipedia/ru/1/15/Transformers_Age_of_Extinction.jpg",
+        "duration": "110 мин",
+        "rating": "12+"
+      },
+      {
+        "id": 5,
+        "title": "Моё большое греческое лето",
+        "genres": ["comedy", "drama", "romance"],
+        "description": "История девушки, отправившейся на каникулы в Грецию, где она узнает семейные тайны и встречает свою любовь в самом неожиданном месте.",
+        "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/f20339db-ec95-4025-8e68-c5971409117a/600x900",
+        "duration": "92 мин",
+        "rating": "12+"
+      },
+      {
+        "id": 6,
+        "title": "Одиночество в сети",
+        "genres": ["drama", "romance"],
+        "description": "Главная героиня влюбляется в мужчину, с которым общается по интернету. Но когда они наконец решают встретиться, возникают непредвиденные обстоятельства.",
+        "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/01749ae8-79c4-4984-b0d3-e37d0808abd5/600x900",
+        "duration": "120 мин",
+        "rating": "16+"
+      },
+      {
+        "id": 7,
+        "title": "Астрал: проклятие Красной Двери",
+        "genres": ["horror", "thriller", "mystery"],
+        "description": "Ламберты снова сталкиваются с паранормальными силами. Чтобы раз и навсегда победить своих демонов, им придется погрузиться глубже в Далекие Пределы.",
+        "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/22/Insidious_The_Red_Door.jpg/640px-Insidious_The_Red_Door.jpg",
+        "duration": "107 мин",
+        "rating": "16+"
+      },
+      {
+        "id": 8,
+        "title": "Аквамен и потерянное царство",
+        "genres": ["action", "adventure", "fantasy"],
+        "description": "Артур Карри объединяется с неожиданным союзником, чтобы спасти Атлантиду и остальной мир от надвигающейся катастрофы.",
+        "image": "https://images.deal.by/421594053_w600_h600_421594053.jpg",
+        "duration": "124 мин",
+        "rating": "12+"
+      },
+      {
+        "id": 9,
+        "title": "Книга Кларенса",
+        "genres": ["animation", "drama", "history"],
+        "description": "История 8-летнего мальчика, который хочет найти своё место в мире. Лучший друг взрослого Иисуса пытается помочь ему в достижении своей мечты.",
+        "image": "https://static.hdrezka.ac/i/2024/2/9/bed49524dbe9cvq72n67p.png",
+        "duration": "99 мин",
+        "rating": "12+"
+      },
+      {
+        "id": 10,
+        "title": "Дед Мороз. Битва магов",
+        "genres": ["comedy", "family"],
+        "description": "Дед Мороз уходит на заслуженный отдых. Но что-то идет не так, и на пути к исполнению новогодних желаний встают серьезные препятствия.",
+        "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/10893610/8b1f62f5-c35b-48a8-90f0-d5849ba2b855/600x900",
+        "duration": "90 мин",
+        "rating": "6+"
+      },
+      {
+        "id": 11,
+        "title": "Бэтмен: Начало",
+        "genres": ["animation", "action", "crime"],
+        "description": "Лечебница Аркхем полна опасных преступников, и когда там происходит бунт, Бэтмену приходится погрузиться в самое безумное место Готэма.",
+        "image": "https://upload.wikimedia.org/wikipedia/ru/d/d2/Batman_Begins_%28poster%29.jpg",
+        "duration": "85 мин",
+        "rating": "18+"
+      },
+      {
+        "id": 12,
+        "title": "Гладиатор 2",
+        "genres": ["action", "drama", "history"],
+        "description": "Спустя годы после гибели Максимуса, его наследник вырастает и должен противостоять коррумпированной Римской империи, чтобы восстановить справедливость.",
+        "image": "https://kinogo.org/uploads/posts/2024-11/1731453843-gladiator-2.jpg",
+        "duration": "147 мин",
+        "rating": "18+"
+      }
+    ]
+  }
